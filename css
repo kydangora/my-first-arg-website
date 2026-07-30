@@ -1,0 +1,38 @@
+body {
+    background-color: #2F1B14;
+}
+
+body {
+    background-color: #2F1B14;
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+em {
+    color: white;
+}
+
+body {
+    background-color: ;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: #2F1B14;
+    color: white;
+    text-align: center;
+    font-family: Georgia, serif;
+
+    background-image:
+        radial-gradient(circle at center,
+        rgba(255, 220, 150, 0.08),
+        rgba(0,0,0,0.85));
+}
